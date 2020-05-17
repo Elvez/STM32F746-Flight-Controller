@@ -3,6 +3,6 @@ A flight controller PCB made for STM32F746VGT6, in EasyEda.
 I recommend opening EasyEda file source on the app or the website easyeda.com.
 Here is what the schematic and PCB looks like,
     
-![Schematic](ss.png)
+![Schematic](STM32F746-Flight-Controller/ss.png)
 I would apprecieate changes to the project.
 Thanks.

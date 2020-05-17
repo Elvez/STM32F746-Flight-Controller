@@ -7,7 +7,7 @@ This is how the PCB looks like on GerbView,
 ![PCBBack](https://github.com/Elvez/STM32F746-Flight-Controller/blob/master/Capturel3.PNG)
 
 
-Here is what the schematic and PCB looks like,
+Here is what the schematic looks like,
 ![Schematic](https://github.com/Elvez/STM32F746-Flight-Controller/blob/master/ss.PNG)
 I would apprecieate changes to the project.
 Thanks.
